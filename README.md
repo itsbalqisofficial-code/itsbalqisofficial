@@ -26,4 +26,4 @@
 <a href="https://www.youtube.com/@MacN_Cheese0990">MacN_Cheese0990's YouTube</a>
 
 ---
-<p align="center"><sub>[Optional Footer Text]</sub></p>
+<p align="center"><sub>[Thank you for reaching out to my profile!]</sub></p>
