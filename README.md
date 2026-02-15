@@ -7,8 +7,8 @@
 
 ## ✎ About Me
 - **Age:** [16]
-- **Pronouns:** [He/Him]
-- **Timezone:** [GMT+8]
+- **Pronouns:** [They/Them]
+- **Timezone:** [UTC/GMT +8]
 - **Status:** [Invisible]
 
 ### 🍎 Interests
