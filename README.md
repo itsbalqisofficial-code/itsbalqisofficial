@@ -2,7 +2,7 @@
 ---
 <p align="center">
   <i>"Be patient because patience is part of faith."</i><br>
-  <b>[SCP]</b> • <b>[AOT]</b> • <b>[Creepypasta]</b>
+  <b>[SCP]</b> • <b>[Creepypasta]</b> • <b>[AOT]</b>
 </p>
 
 ## ✎ About Me
