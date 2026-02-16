@@ -34,6 +34,6 @@
     Promoting our Discord server! <b>Project Gallery</b>
   </summary>
   
-  ![Beginner Author & Writer's Discord Server!]([path/to/larger-image.png](https://cdn.discordapp.com/attachments/1464467891566018831/1472932543706693906/default.png?ex=69945ed4&is=69930d54&hm=7989399a23df948d092b8affb6b93e5474b212a887211109aa46988322753938&))
+  ![Beginner Author & Writer's Discord Server!]
 </details>
-
+<a href="https://discord.gg/QzkAEB4Z7">BA&W</a>
