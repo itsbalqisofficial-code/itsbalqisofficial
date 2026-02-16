@@ -34,6 +34,6 @@
     Promoting our Discord server! 
   </summary>
   
-  ![Beginner Author & Writer's Discord Server!]
+  <a href="https://discord.gg/QzkAEB4Z7">BA&W</a>
+
 </details>
-<a href="https://discord.gg/QzkAEB4Z7">BA&W</a>
