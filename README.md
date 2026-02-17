@@ -34,6 +34,6 @@
     Promoting our Discord server! 
   </summary>
   
-  <a href="https://discord.gg/QzkAEB4Z7">BA&W</a>
+  <a href="https://discord.gg/Sepa2zGU9">BA&W</a>
 
 </details>
