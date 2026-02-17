@@ -25,6 +25,8 @@
 
 <a href="https://www.youtube.com/@MacN_Cheese0990">MacN_Cheese0990's YouTube</a>
 
+<a href="https://www.wattpad.com/user/ItsBalqisOfficial">MacN_Cheese0990's Wattpad<a>
+
 ---
 <p align="center"><sub>[Thank you for reaching out to my profile!]</sub></p>
 
