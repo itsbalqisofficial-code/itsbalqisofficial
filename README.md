@@ -5,13 +5,13 @@
   <b>[SCP]</b> • <b>[Creepypasta]</b> • <b>[AOT]</b>
 </p>
 
-## ✎ About Me
+## About Me
 - **Age:** [16]
 - **Pronouns:** [They/Them]
 - **Timezone:** [UTC/GMT +8]
 - **Status:** [Invisible]
 
-### 🍎 Interests
+### Interests
 *   **Hobby:** [Reading / Writing / Listening to music / Drawing]
 *   **Fandom:** [SCP, Creepypasta, Gacha, Backrooms, FNAF, AOT]
 *   **Topic:** [Roleplay / Writing]
