@@ -29,13 +29,3 @@
 
 ---
 <p align="center"><sub>[Thank you for reaching out to my profile!]</sub></p>
-
-<details>
-  <summary>
-    <img src="https://cdn.discordapp.com/attachments/1464467891566018831/1472932543706693906/default.png?ex=69945ed4&is=69930d54&hm=7989399a23df948d092b8affb6b93e5474b212a887211109aa46988322753938&" width="20" height="20"> 
-    Promoting our Discord server! 
-  </summary>
-  
-  <a href="https://discord.gg/KxezabgcMm">BA&W</a>
-
-</details>
